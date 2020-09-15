@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidToastDemo</string>
+
+    <!--activity_toast.xml-->
+    <string name="btn_simple_toast">SIMPLE TOAST</string>
+    <string name="btn_positioned_toast">POSITIONED TOAST</string>
+    <string name="btn_custom_toast">CUSTOM TOAST</string>
+
+    <!--custom_toast.xml-->
+    <string name="custom_toast_text">Your phone call is on hold.</string>
+</resources>
